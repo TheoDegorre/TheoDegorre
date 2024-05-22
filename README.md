@@ -2,9 +2,10 @@
 ![PersonalGif](https://github.com/TheoDegorre/TheoDegorre/blob/main/logo_theo.gif?raw=true)
 
 # 🦄 About Me:
-I'm a full-stack Web developper
-Initially from the world of agronomy, I retrained to pursue my passion the ✨ Web Developping ✨
-I have a strong taste for front-end and I am always curious to learn new languages
+I'm a full-stack Web developper<br/>
+Initially from the world of agronomy, I retrained to pursue my passion the <br/> ✨ Web Developping ✨<br/>
+I have a strong taste for front-end and I am always curious to learn new languages<br/>
+
 
 
 ## 🎏 Socials:
