@@ -1,3 +1,7 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      
 #  Welcome to my github profile ! Feel free to look at it 
 ![PersonalGif](https://github.com/TheoDegorre/TheoDegorre/blob/main/logo_theo.gif?raw=true)
 
@@ -35,3 +39,6 @@ I have a strong taste for front-end and I am always curious to learn new languag
 [![](https://visitcount.itsvg.in/api?id=TheoDegorre&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </td>
+</tr >
+</table>
